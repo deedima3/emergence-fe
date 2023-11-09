@@ -38,9 +38,18 @@
         "fullscreen": false,
         "resizable": true,
         "title": "emergence-fe",
+        "width": 1280,
+        "height": 720,
+        "visible": false
+      },
+      {
         "width": 800,
-        "height": 600
-      }
+        "height": 600,
+        "decorations": false,
+        "resizable": false,
+        "url": "splashscreen.html",
+        "label": "splashscreen"
+        }
     ]
   }
 }
